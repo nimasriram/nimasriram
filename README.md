@@ -12,17 +12,16 @@
 
 ---
 
-## Let's Connect
+## 📮Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-FF6AC1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/YOUR-KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/purnimasriram1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sriramanima@gmail.com"><img src="https://img.shields.io/badge/Email-FF6AC1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql&perline=6" alt="languages" />
@@ -49,9 +48,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimasriram&bg_color=0D1117&color=FF6AC1&line=7F5AF0&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 </p>
 
----
-
-<!-- Footer banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6AC1,100:7F5AF0&height=120&section=footer" alt="footer" />
-</p>
