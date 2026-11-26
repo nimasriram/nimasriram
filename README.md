@@ -1,5 +1,5 @@
 <!-- Header --> 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4FACFE,100:FF6AC1&height=180&text=Hi%20there,%20I'm%20Purnima%20👋&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Data%20Science%20@%20UT%20Dallas%20·%20ML%20×%20Medical%20Imaging%20·%20Builder%20of%20fun%20apps&descSize=16&descAlignY=68&animation=fadeIn" alt="Hi there, I'm Purnima" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4FACFE,100:FF6AC1&height=180&text=Hi%20there,%20I'm%20Purnima%20👋&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Data%20Science%20@%20UT%20Dallas%20·%20ML%20×%20Medical%20Imaging%20·%20Building%20for%20fun%20&descSize=16&descAlignY=68&animation=fadeIn" alt="Hi there, I'm Purnima" /> </p>
 
 <!-- Typing animation --> 
 <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF6AC1&center=true&vCenter=true&width=600&lines=%3E+training+models+on+3D+MRI+scans+%F0%9F%A9%BB;%3E+leading+the+Girls+Who+Code+UTD+web+team+%F0%9F%92%BB;%3E+saying+hi+in+6+languages+%F0%9F%8C%8F" alt="Typing SVG" /> </a> </p>
