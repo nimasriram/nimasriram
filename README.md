@@ -10,34 +10,15 @@
   </a>
 </p>
 
-<!-- Quick badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nimasriram&color=7F5AF0&style=flat-square&label=Profile+Views" alt="profile views" />
-</p>
-
 ---
 
-## 🌸 About Me
+## Let's Connect
 
-```python
-class Purnima:
-    def __init__(self):
-        self.school     = "University of Texas at Dallas"
-        self.major      = "B.S. Data Science"
-        self.roles      = ["Technical Lead @ Girls Who Code UTD",
-                           "ML Researcher @ ACM Research"]
-        self.languages  = ["English", "French", "Tamil", "Hindi", "Mandarin", "Korean"]
-        self.interests  = ["Deep Learning", "Medical Imaging", "Computer Vision", "Building apps people love"]
-
-    def current_focus(self):
-        return "Segmenting uterine fibroids from 3D MRI with nnU-Net 🩻"
-```
-
-- 🔭 Researching **automated FIGO classification of uterine fibroids from MRI** with ACM Research (presented at the ACM Research Symposium!)
-- 🚀 Built **neuro_nova**, a CNN that recognizes facial emotions to help monitor astronaut mental health (NASA HUNCH capstone)
-- 👩‍💻 Leading a 5-person team building the **Girls Who Code @ UTD** chapter website
-- 🍳 Designing **savorite**, a recipe-sharing and meal-prep app
-- 🗣️ I speak 6 languages, so feel free to say hi in any of them!
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-FF6AC1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/YOUR-KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -76,12 +57,6 @@ class Purnima:
   </a>
 </p>
 
-| Project | What it does | Built with |
-|---|---|---|
-| 🩻 **[Radii](https://github.com/acm-research-f26/Radii)** | Benchmarks six 3D U-Net-family models to segment uterine fibroids from MRI, then maps segmentations to FIGO types. nnU-Net ensemble reached **0.771 mean Dice**. | PyTorch, nnU-Net |
-| 🧑‍🚀 **[neuro_nova](https://github.com/nimasriram/neuro_nova)** | CNN facial emotion recognition (4 emotions, **83% accuracy**) served through a Dockerized FastAPI. | Keras, FastAPI, Docker |
-| 🍳 **[savorite](https://github.com/nimasriram/savorite)** | Recipe-sharing and meal-prep app. | JavaScript |
-
 ---
 
 ## 📊 GitHub Stats
@@ -108,14 +83,6 @@ class Purnima:
 </p>
 
 ---
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-FF6AC1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/YOUR-KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-</p>
 
 <!-- Footer banner -->
 <p align="center">
