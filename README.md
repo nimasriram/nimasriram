@@ -43,43 +43,10 @@
 
 ---
 
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/acm-research-f26/Radii">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=acm-research-f26&repo=Radii&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6AC1&icon_color=7F5AF0" alt="Radii" />
-  </a>
-  <a href="https://github.com/nimasriram/neuro_nova">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimasriram&repo=neuro_nova&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6AC1&icon_color=7F5AF0" alt="neuro_nova" />
-  </a>
-  <a href="https://github.com/nimasriram/savorite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimasriram&repo=savorite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6AC1&icon_color=7F5AF0" alt="savorite" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nimasriram&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6AC1&icon_color=7F5AF0&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimasriram&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6AC1" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nimasriram&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6AC1&fire=FF6AC1&currStreakLabel=7F5AF0" alt="streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimasriram&bg_color=0D1117&color=FF6AC1&line=7F5AF0&point=ffffff&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-<!-- Contribution snake: needs the workflow in .github/workflows/snake.yml (see below) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nimasriram/nimasriram/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/nimasriram/nimasriram/output/github-snake.svg" />
-  </picture>
 </p>
 
 ---
