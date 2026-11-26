@@ -1,16 +1,13 @@
 <!-- Header banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:FF6AC1&height=200&section=header&text=Hi,%20I'm%20Purnima%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20@%20UT%20Dallas&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
-</p>
+<!-- Header --> 
+<h1 align="center">Hi there, I'm Purnima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="waving hand" /></h1> <h3 align="center">Data Science @ UT Dallas · ML × Medical Imaging · Builder of fun apps</h3> <!-- Typing animation --> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF6AC1&center=true&vCenter=true&width=600&lines=%3E+training+models+on+3D+MRI+scans+%F0%9F%A9%BB;%3E+shipping+APIs+with+FastAPI+%2B+Docker+%F0%9F%90%B3;%3E+leading+the+Girls+Who+Code+UTD+web+team+%F0%9F%92%BB;%3E+saying+hi+in+6+languages+%F0%9F%8C%8F" alt="Typing SVG" /> </a> </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6AC1&center=true&vCenter=true&width=600&lines=Data+Science+student+%40+UT+Dallas+%F0%9F%93%8A;Deep+learning+for+medical+imaging+%F0%9F%A7%A0;Building+with+PyTorch%2C+FastAPI+%26+Docker+%F0%9F%90%B3;Technical+Lead+%40+Girls+Who+Code+UTD+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6AC1&center=true&vCenter=true&width=600&lines=Data+Science+@+%40+UT+Dallas+%F0%9F%93%8A;Deep+learning+for+medical+imaging+%F0%9F%A7%A0;Building+with+%2C+FastAPI+%26+Docker+%F0%9F%90%B3;VP+%40+Girls+Who+Code+UTD+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </p>
-
----
 
 ## 📮Let's Connect
 
