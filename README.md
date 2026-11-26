@@ -13,7 +13,6 @@
 <!-- Quick badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nimasriram&color=7F5AF0&style=flat-square&label=Profile+Views" alt="profile views" />
-  <a href="https://github.com/nimasriram?tab=followers"><img src="https://img.shields.io/github/followers/nimasriram?style=flat-square&color=FF6AC1&label=Followers" alt="followers" /></a>
 </p>
 
 ---
